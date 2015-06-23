@@ -2,7 +2,7 @@
 //MIT License
 
 //Ensure all links in the div "#player" act in the same way:
-  var video_playlist = document.getElementById("player");
+  var video_playlist = document.getElementById("player"); //Element ID should be the same as the ID used in the container div in the HTML.
   var links = video_playlist.getElementsByTagName('a');
   for (var i=0; i<links.length; i++) {
     links[i].onclick = handler;
