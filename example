@@ -18,19 +18,16 @@
 	<body>
 		<div id="player">
 			<video controls="controls" width="640" height="360" preload="auto" autoplay>
-				<source src="http://kristibeck.com/wp/wp-content/uploads/2014/02/freeseaturtleswimming.mp4" type="video/mp4" />
-				<source src="http://kristibeck.com/wp/wp-content/uploads/2014/02/freeseaturtleswimming.webm" type="video/webm" />
-				<source src="http://kristibeck.com/wp/wp-content/uploads/2014/02/freeseaturtleswimming.ogv" type="video/ogg" />
+				<source src="video/freeseaturtleswimming.mp4" type="video/mp4" />
+				<source src="video/freeseaturtleswimming.webm" type="video/webm" />
+				<source src="video/freeseaturtleswimming.ogv" type="video/ogg" />
 			</video>
 			<div id="playlist">
 				<h1>Videos</h1>
-				<a href="http://kristibeck.com/wp/wp-content/uploads/2014/02/freeseaturtleswimming.mp4">Sea Turtle</a>
-				<a href="http://kristibeck.com/wp/wp-content/uploads/2014/02/freedoginrain.mp4">Dog in the Rain</a>
-				<a href="http://kristibeck.com/wp/wp-content/uploads/2014/02/freestormcell.mp4">Storm Cell</a>
+				<a href="video/freeseaturtleswimming.mp4">Sea Turtle</a>
+				<a href="video/freedoginrain.mp4">Dog in the Rain</a>
+				<a href="video/freestormcell.mp4">Storm Cell</a>
 			</div>
-		</div>
-		<div class="center">
-			<a href="view-source:http://kristibeck.com/wp/html/videoplaylisttutorial.html">View the page source here.</a>
 		</div>
 		<script>
 			//Ensure all links in the div "#player" act in the same way:
