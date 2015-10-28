@@ -10,7 +10,8 @@ A simple video playlist using HTML5 and vanilla JS. For a full how-to on how to 
       <source src="video1.mp4" type="video/mp4" />
       <source src="video1.webm" type="video/webm" />
       <source src="video1.ogv" type="video/ogg" />
-      <track src="video/video1.srt" kind="subtitle" srclang="en-US" label="English" /> <!--optional for subtitles-->
+      <!--optional line for subtitles-->
+      <track src="video/video1.srt" kind="subtitle" srclang="en-US" label="English" />
    </video>
    <div id="playlist">
       <h1>Videos</h1>
@@ -24,6 +25,8 @@ A simple video playlist using HTML5 and vanilla JS. For a full how-to on how to 
 #### Javascript
 ```html
 <script type="text/javascript" src="path/to/js-playlist.js"></script>
+<!--optional file for subtitles-->
+<script type="text/javascript" src="path/to/videosub.js"></script>
 ```
 
 ---
