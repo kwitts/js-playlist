@@ -1,5 +1,5 @@
 # js-playlist
-A simple video playlist using HTML5 and vanilla JS. For a full how-to on how to build this, go to <a href="http://kristiwitts.com/blog/html-5-video-playlist-tutorial/">the full tutorial</a>.
+A simple video playlist using HTML5 and vanilla JS. For a full how-to on how to build this, go to [the full tutorial](http://kristiwitts.com/blog/html-5-video-playlist-tutorial/).
 
 ## How to Use
 
