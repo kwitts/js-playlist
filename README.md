@@ -1,4 +1,6 @@
 # js-playlist
+*Version: 1.2.0, Last updated: 10/28/2015*
+
 A simple video playlist using HTML5 and vanilla JS. For a full how-to on how to build this, go to [the full tutorial](http://kristiwitts.com/blog/html-5-video-playlist-tutorial/).
 
 ## How to Use
